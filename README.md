@@ -6,7 +6,7 @@ Khameleon is an AI assistant that works alongside you in the apps you already us
 
 Get the latest version from **[Releases](https://github.com/Khameleon-App/khameleon/releases/latest)**:
 
-- **Windows 10 or 11:** `Khameleon Setup <version>.exe`
+- **Windows 10 or 11:** `Khameleon-Setup-<version>.exe`
 - **Mac (Apple chip):** `Khameleon-<version>-arm64.dmg`
 
 Khameleon is all-in-one: everything it needs is inside the download, and your data stays on your computer.
